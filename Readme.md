@@ -1,0 +1,1 @@
+This repository contains solutions for the GU Prerequisite course on Data Structures using Java. The provided code addresses the questions from the final assessment before the certification process and is written in C language.
